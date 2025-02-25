@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Titillium_Black;
+    src: url('http://localhost/ProjetoGamer/public/assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf');
+}
+@font-face {
+    font-family: Titillium_Bold;
+    src: url('http://localhost/ProjetoGamer/public/assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf');
+}
+@font-face {
+    font-family: Quicksand;
+    src: url('http://localhost/ProjetoGamer/public/assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: Inter;
+    src: url('http://localhost/ProjetoGamer/public/assets/fonts/Inter/Inter-VariableFont_opsz,wght.ttf');
+}
