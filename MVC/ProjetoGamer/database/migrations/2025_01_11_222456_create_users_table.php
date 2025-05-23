@@ -19,6 +19,7 @@ return new class extends Migration
         });
 
 
+        // Muito bonita a migration
         Schema::create('player', function (Blueprint $table) {
             $table->id();
             $table->unsignedBigInteger('team_id');
